@@ -14,4 +14,5 @@ int main() {
             x--;
     }
     cout<<abs(x);
+    return 0;
 }
